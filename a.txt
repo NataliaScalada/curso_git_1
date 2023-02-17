@@ -5,3 +5,5 @@ de Arquivo
 enviando
 a funcionalidade
 x
+Diff
+de arquvio
